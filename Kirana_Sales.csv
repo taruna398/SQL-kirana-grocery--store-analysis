@@ -1,0 +1,201 @@
+Sales_Date,Product_Name,Category,Qty_Sold,Selling_Price,Cost_Price,Total_Sales,Profit_INR
+1/2/2024,Pepsodent Toothpaste,Personal Care,1,91,82,91,9
+1/3/2024,Sunlight Dishwash Bar,Household,4,28,23,110,19
+1/4/2024,Patanjali Desi Ghee,Oils & Ghee,1,312,286,312,26
+1/7/2024,Clinic Plus Shampoo,Personal Care,8,115,103,922,96
+1/7/2024,Amul Cheese Slice,Dairy,2,130,113,260,35
+1/8/2024,India Gate Basmati Rice,Staples,1,112,99,112,13
+1/8/2024,Amul Butter,Dairy,4,57,52,228,22
+1/9/2024,India Gate Basmati Rice,Staples,1,109,93,109,16
+1/11/2024,Sunlight Dishwash Bar,Household,6,27,22,162,29
+1/13/2024,Lay's Chips Classic,Snacks & Instant,6,20,18,119,8
+1/13/2024,Real Fruit Juice,Beverages,5,104,87,520,83
+1/15/2024,Fortune Sunflower Oil,Oils & Ghee,2,144,128,288,33
+1/17/2024,Aashirvaad Atta,Staples,3,236,201,708,104
+1/17/2024,Pepsodent Toothpaste,Personal Care,3,89,77,266,36
+1/19/2024,Bru Coffee,Beverages,5,136,115,679,103
+1/21/2024,Dove Soap,Personal Care,1,44,37,44,7
+1/21/2024,Sunlight Dishwash Bar,Household,4,27,21,106,22
+1/21/2024,Parachute Coconut Oil,Personal Care,1,83,72,83,11
+1/23/2024,Colgate Toothpaste,Personal Care,4,96,87,385,36
+1/26/2024,Mother Dairy Paneer,Dairy,2,97,85,195,25
+1/27/2024,Dove Soap,Personal Care,6,44,37,263,41
+1/27/2024,Surf Excel,Household,4,115,104,459,42
+1/28/2024,Haldiram Bhujia,Snacks & Instant,1,76,66,76,10
+1/29/2024,Britannia Good Day,Biscuits,2,33,29,65,7
+1/30/2024,Mother Dairy Paneer,Dairy,2,92,87,185,11
+1/30/2024,MDH Garam Masala,Spices,3,77,62,230,43
+2/2/2024,Pepsodent Toothpaste,Personal Care,3,90,76,271,42
+2/2/2024,Clinic Plus Shampoo,Personal Care,2,118,99,237,38
+2/3/2024,Parle-G Biscuit,Biscuits,3,20,19,60,4
+2/7/2024,Chana Dal,Pulses,1,106,89,106,17
+2/13/2024,Bournvita,Beverages,4,292,265,1169,110
+2/17/2024,Sunlight Dishwash Bar,Household,4,27,21,107,21
+2/19/2024,Real Fruit Juice,Beverages,2,105,89,209,30
+2/20/2024,Sunlight Dishwash Bar,Household,3,27,21,80,16
+2/22/2024,Haldiram Bhujia,Snacks & Instant,3,75,67,226,26
+2/24/2024,Complan,Beverages,3,192,171,577,64
+2/25/2024,Dettol Handwash,Personal Care,1,102,91,102,11
+2/28/2024,Red Chilli Powder,Spices,1,54,44,54,10
+2/28/2024,Chana Dal,Pulses,1,106,94,106,12
+3/5/2024,Bru Coffee,Beverages,1,139,117,139,22
+3/6/2024,Coca Cola,Beverages,3,41,32,123,27
+3/8/2024,Vim Bar,Household,1,35,30,35,6
+3/11/2024,MDH Garam Masala,Spices,5,79,65,396,71
+3/11/2024,Maggi Noodles,Snacks & Instant,3,14,12,42,7
+3/13/2024,Patanjali Desi Ghee,Oils & Ghee,3,326,268,977,174
+3/14/2024,Surf Excel,Household,2,117,96,233,41
+3/16/2024,Parachute Coconut Oil,Personal Care,5,81,67,405,68
+3/16/2024,Aashirvaad Atta,Staples,3,247,200,741,140
+3/17/2024,Amul Cheese Slice,Dairy,1,127,120,127,7
+3/19/2024,Sprite,Beverages,3,40,31,121,29
+3/21/2024,Oreo Biscuit,Biscuits,1,44,39,44,5
+3/22/2024,Too Yumm Chips,Snacks & Instant,1,20,18,20,2
+3/23/2024,Red Chilli Powder,Spices,5,56,47,282,47
+4/1/2024,Mother Dairy Paneer,Dairy,1,94,89,94,5
+4/3/2024,Saffola Gold Oil,Oils & Ghee,2,173,151,346,44
+4/7/2024,India Gate Basmati Rice,Staples,3,109,93,328,51
+4/9/2024,Vim Bar,Household,1,34,29,34,5
+4/15/2024,Clinic Plus Shampoo,Personal Care,6,120,99,719,126
+4/18/2024,Frooti,Beverages,3,18,15,55,10
+4/19/2024,Red Chilli Powder,Spices,3,56,43,169,39
+4/21/2024,Chana Dal,Pulses,1,107,92,107,15
+4/22/2024,Lay's Chips Classic,Snacks & Instant,2,20,19,40,3
+4/27/2024,Haldiram Bhujia,Snacks & Instant,6,75,67,452,49
+4/28/2024,Nescafe Classic,Beverages,4,257,235,1028,88
+5/1/2024,Yippee Noodles,Snacks & Instant,5,13,12,66,9
+5/3/2024,Too Yumm Chips,Snacks & Instant,2,20,18,40,5
+5/5/2024,India Gate Basmati Rice,Staples,4,110,93,439,67
+5/8/2024,Saffola Gold Oil,Oils & Ghee,1,174,149,174,26
+5/12/2024,Sunlight Dishwash Bar,Household,4,27,21,109,23
+5/15/2024,Bru Coffee,Beverages,5,138,120,690,91
+5/15/2024,Sprite,Beverages,1,41,32,41,8
+5/15/2024,Pepsodent Toothpaste,Personal Care,1,89,81,89,8
+5/16/2024,Phenyl Floor Cleaner,Household,2,54,46,107,16
+5/18/2024,Sprite,Beverages,2,39,33,79,13
+5/22/2024,Dove Soap,Personal Care,8,45,39,358,50
+5/23/2024,Amul Milk Pouch,Dairy,1,28,27,28,1
+5/24/2024,Bournvita,Beverages,10,302,260,3016,419
+5/26/2024,Oreo Biscuit,Biscuits,2,45,39,89,11
+5/27/2024,Britannia Good Day,Biscuits,1,32,29,32,3
+5/28/2024,India Gate Basmati Rice,Staples,2,112,98,225,28
+5/29/2024,MDH Garam Masala,Spices,2,78,66,155,23
+5/31/2024,Amul Butter,Dairy,6,58,50,346,46
+6/1/2024,Sprite,Beverages,2,39,32,79,15
+6/1/2024,Sunlight Dishwash Bar,Household,4,28,22,111,23
+6/2/2024,MDH Garam Masala,Spices,2,78,64,155,28
+6/6/2024,Oreo Biscuit,Biscuits,6,46,38,276,47
+6/8/2024,Tata Tea Premium,Beverages,3,113,96,338,51
+6/9/2024,Oreo Biscuit,Biscuits,3,44,39,132,15
+6/15/2024,Lay's Chips Classic,Snacks & Instant,1,20,18,20,2
+6/17/2024,Haldiram Bhujia,Snacks & Instant,2,74,67,149,14
+6/18/2024,Coca Cola,Beverages,3,41,31,123,28
+6/21/2024,Tata Tea Premium,Beverages,4,107,91,429,65
+6/21/2024,Sunlight Dishwash Bar,Household,6,27,23,160,23
+6/22/2024,Tata Tea Premium,Beverages,2,108,93,216,31
+6/24/2024,Parle-G Biscuit,Biscuits,2,20,18,41,4
+7/4/2024,Amul Cheese Slice,Dairy,3,127,111,380,46
+7/8/2024,Vim Bar,Household,3,36,29,107,20
+7/10/2024,Toor Dal,Pulses,1,140,125,140,15
+7/11/2024,Head & Shoulders Shampoo,Personal Care,3,196,183,589,41
+7/12/2024,India Gate Basmati Rice,Staples,3,112,95,337,50
+7/13/2024,Tata Salt,Staples,4,22,19,87,11
+7/16/2024,Dettol Handwash,Personal Care,1,100,89,100,11
+7/16/2024,Real Fruit Juice,Beverages,1,106,93,106,13
+7/24/2024,Urad Dal,Pulses,1,123,101,123,22
+7/25/2024,Ariel Detergent,Household,1,130,115,130,15
+7/25/2024,MDH Garam Masala,Spices,5,76,67,378,43
+7/28/2024,Pepsodent Toothpaste,Personal Care,1,88,79,88,9
+7/28/2024,Frooti,Beverages,4,18,16,70,7
+7/29/2024,Too Yumm Chips,Snacks & Instant,2,20,18,40,4
+7/31/2024,Pepsodent Toothpaste,Personal Care,4,90,83,360,26
+8/3/2024,Surf Excel,Household,4,115,103,459,46
+8/4/2024,Lay's Chips Classic,Snacks & Instant,6,20,18,118,13
+8/7/2024,Harpic Toilet Cleaner,Household,8,102,91,818,93
+8/8/2024,Maggi Noodles,Snacks & Instant,3,14,12,42,7
+8/10/2024,Dove Soap,Personal Care,3,44,39,134,17
+8/11/2024,Sprite,Beverages,2,41,33,82,16
+8/13/2024,Tata Tea Premium,Beverages,3,110,95,329,43
+8/14/2024,Amul Butter,Dairy,2,59,50,117,17
+8/14/2024,Amul Butter,Dairy,1,58,53,58,5
+8/14/2024,Coca Cola,Beverages,2,41,33,82,16
+8/17/2024,Mother Dairy Paneer,Dairy,4,97,83,388,56
+8/18/2024,Too Yumm Chips,Snacks & Instant,1,20,18,20,2
+8/20/2024,Sprite,Beverages,2,39,33,78,12
+8/20/2024,Tata Salt,Staples,1,22,19,22,4
+8/20/2024,Vim Bar,Household,10,36,30,360,62
+8/22/2024,Colgate Toothpaste,Personal Care,1,97,89,97,9
+8/23/2024,Dove Soap,Personal Care,1,46,37,46,9
+8/24/2024,Clinic Plus Shampoo,Personal Care,3,118,96,354,68
+8/25/2024,Real Fruit Juice,Beverages,2,105,90,211,30
+8/26/2024,Parachute Coconut Oil,Personal Care,2,82,72,165,20
+8/29/2024,Oreo Biscuit,Biscuits,1,44,40,44,4
+8/30/2024,Oreo Biscuit,Biscuits,1,46,41,46,5
+9/5/2024,Moong Dal,Pulses,1,131,112,131,20
+9/6/2024,Britannia Good Day,Biscuits,2,32,27,64,9
+9/6/2024,Red Chilli Powder,Spices,3,54,43,161,32
+9/7/2024,Maggi Noodles,Snacks & Instant,2,14,12,28,4
+9/12/2024,Sprite,Beverages,1,39,32,39,7
+9/13/2024,Sunlight Dishwash Bar,Household,5,28,21,138,32
+9/18/2024,Nescafe Classic,Beverages,1,261,227,261,34
+9/18/2024,Moong Dal,Pulses,4,136,118,543,69
+9/22/2024,Frooti,Beverages,10,18,15,178,29
+9/23/2024,Urad Dal,Pulses,1,120,106,120,14
+9/24/2024,Dettol Handwash,Personal Care,5,100,88,498,60
+9/27/2024,Amul Milk Pouch,Dairy,2,28,26,55,3
+9/29/2024,Parachute Coconut Oil,Personal Care,3,80,71,240,26
+9/30/2024,Bru Coffee,Beverages,3,139,112,417,79
+10/1/2024,Pepsodent Toothpaste,Personal Care,8,88,84,703,35
+10/2/2024,Complan,Beverages,5,199,174,993,123
+10/5/2024,Dettol Handwash,Personal Care,1,99,88,99,11
+10/7/2024,Tata Salt,Staples,4,22,18,86,16
+10/7/2024,Toor Dal,Pulses,2,142,125,284,35
+10/8/2024,Pepsodent Toothpaste,Personal Care,2,90,79,180,22
+10/8/2024,Fortune Sunflower Oil,Oils & Ghee,2,146,129,293,34
+10/10/2024,Tata Salt,Staples,5,21,18,107,16
+10/11/2024,Real Fruit Juice,Beverages,1,103,92,103,11
+10/12/2024,Oreo Biscuit,Biscuits,1,44,42,44,2
+10/12/2024,Sunlight Dishwash Bar,Household,3,27,22,81,16
+10/13/2024,Clinic Plus Shampoo,Personal Care,6,120,105,719,90
+10/14/2024,Kurkure Masala,Snacks & Instant,2,20,18,40,4
+10/16/2024,Everest Rajma Masala,Spices,3,64,54,192,30
+10/18/2024,Coca Cola,Beverages,2,40,33,79,14
+10/18/2024,Vim Bar,Household,2,35,30,70,10
+10/23/2024,Amul Milk Pouch,Dairy,3,27,25,82,8
+10/26/2024,Parachute Coconut Oil,Personal Care,1,82,73,82,9
+10/28/2024,Sunlight Dishwash Bar,Household,1,27,22,27,5
+11/2/2024,Colgate Toothpaste,Personal Care,2,93,85,186,16
+11/2/2024,MDH Garam Masala,Spices,1,76,67,76,10
+11/3/2024,Nescafe Classic,Beverages,1,261,237,261,24
+11/5/2024,Surf Excel,Household,2,117,103,233,27
+11/6/2024,Frooti,Beverages,3,18,15,54,10
+11/6/2024,Complan,Beverages,1,198,174,198,25
+11/9/2024,Frooti,Beverages,3,18,15,55,9
+11/14/2024,Amul Cheese Slice,Dairy,1,127,121,127,6
+11/14/2024,Maggi Noodles,Snacks & Instant,1,14,12,14,2
+11/17/2024,Oreo Biscuit,Biscuits,5,46,38,229,37
+11/18/2024,Amul Milk Pouch,Dairy,2,28,27,57,3
+11/20/2024,Boost Horlicks,Beverages,3,289,264,867,74
+11/21/2024,Yippee Noodles,Snacks & Instant,2,13,11,26,4
+11/21/2024,Chana Dal,Pulses,4,105,92,418,51
+11/23/2024,Nescafe Classic,Beverages,1,256,219,256,37
+11/29/2024,Ariel Detergent,Household,4,133,116,533,68
+12/3/2024,India Gate Basmati Rice,Staples,3,111,93,333,54
+12/5/2024,Tata Tea Premium,Beverages,1,108,99,108,8
+12/5/2024,Aashirvaad Atta,Staples,5,239,201,1195,189
+12/5/2024,Mother Dairy Paneer,Dairy,2,95,84,191,23
+12/8/2024,Complan,Beverages,4,192,175,769,68
+12/8/2024,Haldiram Bhujia,Snacks & Instant,4,76,67,304,36
+12/9/2024,Ariel Detergent,Household,1,131,117,131,14
+12/9/2024,Kurkure Masala,Snacks & Instant,3,19,18,58,5
+12/10/2024,Ariel Detergent,Household,1,132,116,132,16
+12/11/2024,Oreo Biscuit,Biscuits,3,46,40,139,20
+12/12/2024,Complan,Beverages,2,196,177,393,39
+12/19/2024,Kurkure Masala,Snacks & Instant,3,20,18,60,4
+12/19/2024,Maggi Noodles,Snacks & Instant,3,14,12,43,7
+12/19/2024,Lay's Chips Classic,Snacks & Instant,1,20,17,20,3
+12/22/2024,Dettol Handwash,Personal Care,3,98,88,295,32
+12/23/2024,Bru Coffee,Beverages,1,137,117,137,20
+12/23/2024,Oreo Biscuit,Biscuits,4,44,40,177,16
+12/27/2024,Vim Bar,Household,3,35,31,105,13
+12/28/2024,Parachute Coconut Oil,Personal Care,2,84,67,168,35
